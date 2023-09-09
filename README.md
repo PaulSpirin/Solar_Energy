@@ -38,7 +38,7 @@
 - **TimeSunSet:** Время заката солнца.
 
 ### Ноутбук
-Вы можете просмотреть ноутбук с помощью сервиса nbviewer: [Просмотреть ноутбук](https://nbviewer.org/github/PaulSpirin/Tide_Analysis/blob/main/Tide.ipynb)
+Вы можете просмотреть ноутбук с помощью сервиса nbviewer: [Просмотреть ноутбук](https://nbviewer.org/github/PaulSpirin/Solar_Energy/blob/main/Solar_radiation.ipynb)
 
 ### Установка библиотек
 Код для устанвоки актуальных библиотек проекта:

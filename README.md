@@ -52,5 +52,5 @@
 Данные, использованные в этом проекте, распространяются под [лицензией Open Data Commons Database License (ODC-DBCL)](https://opendatacommons.org/licenses/dbcl/1-0/).
 
 ### Автор
-Автор проекта: Pavel Spirin
+Автор проекта: Pavel Spirin  
 Свяжитесь со мной по адресу agro.spirin@gmail.com для дополнительной информации или вопросов.
